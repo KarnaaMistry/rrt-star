@@ -12,7 +12,7 @@ Environment: initial and goal states for polygonal robot with polygonal obstacle
 Result: randomly generated solution path via implemented RRT (left) and randomly generated near-optimal solution path via RRT* (right)
 </br></br>
 <p align="center">
-  <img src="rrtstar_km_env.jpg"/>
+  <img src="rrtstar_km_result.jpg"/>
 </p>
 
 
